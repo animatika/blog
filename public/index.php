@@ -6,8 +6,6 @@
  * @package  Laravel
  * @author   Taylor Otwell <taylorotwell@gmail.com>
  */
- 
-// change by Dmitry
 
 /*
 |--------------------------------------------------------------------------
